@@ -33,4 +33,6 @@ public class Size {
                 ", trangthai='" + trangthai + '\'' +
                 '}';
     }
+
+    // Nhieu
 }
